@@ -1,6 +1,6 @@
 \# 路飞的自我介绍
 
-<img src="https://img0.baidu.com/it/u=829224900,213866603\&fm=253\&fmt=auto\&app=138\&f=JPEG?w=500\&h=500" width="200">
+<img src="https://imgs.icauto.com.cn/allimgs/da8e134a590761a9288b27ba5e0d513f.png" width="200">
 
 
 
@@ -16,41 +16,41 @@
 
 \### 外貌特征
 
-\- 头戴草帽
+\- 头戴标志性草帽
 
-\- 身穿红色马甲
+\- 左眼下有疤痕
 
-\- 左眼下有刀疤
+\- 身材结实，穿着红色马甲
 
 
 
 \## 我的好朋友
 
-1\. 索隆
+1\. 罗罗诺亚·索隆
 
 2\. 娜美
 
-3\. \~\~山治\~\~
+3\. \~\~文斯莫克·山治\~\~
 
 
 
 \### 重要坐标
 
-住址：\[万里阳光号](https://baike.baidu.com/item/%E4%B8%87%E9%87%8C%99%E9%98%B3%E5%8F%B7/8081236)
+住址：\[万里阳光号](https://baike.baidu.com/item/万里阳光号)
 
 
 
 \### 日常作息表
 
-| 时间 | 事情 |
+| 时间 | 日常活动 |
 
-| ---- | ---- |
+| ---- | -------- |
 
-| 早上 | 吃肉 |
+| 早晨 | 吃肉、锻炼 |
 
-| 中午 | 冒险 |
+| 中午 | 探险、战斗 |
 
-| 晚上 | 睡觉 |
+| 晚上 | 大吃一顿、睡觉 |
 
 
 
@@ -74,21 +74,19 @@
 
 \# dev\_skills\_env.py
 
-import os
-
 import sys
 
 
 
-def show\_env():
+def test\_env():
 
-&#x20;   print("Python 环境搭建成功！")
+&#x20;   print("虚拟环境搭建成功！")
 
-&#x20;   print("当前版本：", sys.version)
+&#x20;   print("Python 版本：", sys.version)
 
 
 
 if \_\_name\_\_ == "\_\_main\_\_":
 
-&#x20;   show\_env()
+&#x20;   test\_env()
 

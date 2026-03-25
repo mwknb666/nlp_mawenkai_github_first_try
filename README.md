@@ -1,7 +1,7 @@
 # 路飞的自我介绍
 
 
-[路飞](https://p6.qhmsg.com/t011bc590f682004337.jpg)
+[路飞](https://tse4-mm.cn.bing.net/th/id/OIP-C.0YzBYAV8NHC1fiUxD7JFrgHaGl?w=192&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3)
 
 
 
@@ -76,11 +76,11 @@
 
 ### Conda 环境配置验证截图
 
-![Conda环境验证截图](屏幕截图 2026-03-24 203941.png)
+![Conda环境验证截图](https://github.com/mwknb666/nlp_mawenkai_github_first_try/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-11%20082122.png)
 
 
 
 ### PyCharm 环境运行截图
 
-![PyCharm环境运行截图](屏幕截图 2026-03-11 082122.png)
+![PyCharm环境运行截图](https://github.com/mwknb666/nlp_mawenkai_github_first_try/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-24%20203941.png)
 
